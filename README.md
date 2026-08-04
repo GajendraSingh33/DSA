@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GajendraSingh33/DSA/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/GajendraSingh33/DSA/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/GajendraSingh33/DSA/tree/master/0049-group-anagrams) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/GajendraSingh33/DSA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/GajendraSingh33/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
