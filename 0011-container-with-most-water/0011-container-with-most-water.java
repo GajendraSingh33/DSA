@@ -1,5 +1,5 @@
 class Solution {
-    public int maxArea(int[] height) {
+    public int maxArea(int[] height) {      //O(n)
         int maxArea = 0;
         int lp=0;
         int rp= height.length-1;
