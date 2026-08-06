@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GajendraSingh33/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/GajendraSingh33/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/GajendraSingh33/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/GajendraSingh33/DSA/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GajendraSingh33/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/GajendraSingh33/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/GajendraSingh33/DSA/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GajendraSingh33/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/GajendraSingh33/DSA/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GajendraSingh33/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
