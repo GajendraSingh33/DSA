@@ -1,5 +1,5 @@
 class Solution {
-    public boolean isPalindrome(String s) {
+    public boolean isPalindrome(String s) {        //O(n) & O(1)
         
         int left = 0;
         int right = s.length()-1;
