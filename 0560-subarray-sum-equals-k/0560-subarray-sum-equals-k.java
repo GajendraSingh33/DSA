@@ -13,7 +13,11 @@ class Solution {
                 count += map.get(currentSum - k);
             }
             
-            map.put(currentSum, map.getOrDefault(currentSum, 0) + 1);
+            if(map.containsKey(currentSum)){
+                map.put(currentSum, map.get(currentSum)+1);
+            }else{
+                map.put(currentSum, 1);
+            }
         }
         
         return count;
