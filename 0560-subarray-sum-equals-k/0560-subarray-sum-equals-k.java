@@ -1,7 +1,7 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        map.put(0, 1);
+        HashMap<Integer, Integer> map = new HashMap<>();   //<sum, frequency>
+        map.put(0, 1);     //empty subarray
         
         int currentSum = 0;
         int count = 0;
